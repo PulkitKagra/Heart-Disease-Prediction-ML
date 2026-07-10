@@ -78,9 +78,10 @@ Heart-Disease-Prediction/
 ├── README.md
 ├── .gitignore
 ├── screenshots/
-│     ├── home.png
-│     ├── prediction.png
-│     └── result.png
+│     ├── ss1.png
+│     ├── ss2.png
+|     ├── ss3.png
+│     └── ss4.png
 └── dataset/
       └── heart.csv
 ```
@@ -186,9 +187,9 @@ B.Tech (ECE - AIML)
 
 Passionate about Machine Learning, Artificial Intelligence, Data Science, and Software Development.
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/PulkitKagra
 
-LinkedIn: https://linkedin.com/in/yourlinkedin
+LinkedIn: (https://www.linkedin.com/in/pulkit-dev-kagra/)
 
 ---
 
