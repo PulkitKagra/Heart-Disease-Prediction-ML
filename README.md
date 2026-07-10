@@ -148,23 +148,21 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-### Home Page
+### 1
 
-```
-Add screenshot here
-```
+![1](screenshot/ss1.png)
 
-### Input Form
+### 2
 
-```
-Add screenshot here
-```
+![2](screenshots/ss2.png)
 
-### Prediction Result
+### 3
 
-```
-Add screenshot here
-```
+![3](screenshots/ss3.png)
+
+### 4
+
+![4](screenshots/ss4.png)
 
 ---
 
