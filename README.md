@@ -179,6 +179,11 @@ streamlit run app.py
 
 ---
 
+🌐 Live Demo
+
+👉 Click here to try the app:
+(https://heart-disease-predictiongit-bw4o3ejjujxuuda4dckwjm.streamlit.app/)
+
 ## 👨‍💻 Author
 
 **Pulkit Dev Kagra**
