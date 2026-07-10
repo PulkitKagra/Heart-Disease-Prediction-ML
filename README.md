@@ -154,15 +154,15 @@ streamlit run app.py
 
 ### 2
 
-![2](screenshots/ss2.png)
+![2](screenshot/ss2.png)
 
 ### 3
 
-![3](screenshots/ss3.png)
+![3](screenshot/ss3.png)
 
 ### 4
 
-![4](screenshots/ss4.png)
+![4](screenshot/ss4.png)
 
 ---
 
