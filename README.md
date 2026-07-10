@@ -8,7 +8,7 @@ This project includes data preprocessing, model training, evaluation, and deploy
 
 ## 🚀 Live Demo
 
-🔗 [Click here to use the app]([PASTE_YOUR_STREAMLIT_LINK_HERE](https://heart-disease-predictiongit-bw4o3ejjujxuuda4dckwjm.streamlit.app/))
+🔗 [Click here to use the app](https://heart-disease-predictiongit-bw4o3ejjujxuuda4dckwjm.streamlit.app/)
 
 ---
 
